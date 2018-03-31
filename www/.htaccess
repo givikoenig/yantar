@@ -1,0 +1,6 @@
+AddDefaultCharset   utf-8
+php_flag magic_quotes_gpc   Off
+ErrorDocument 404  http://suvenirbronz.m39.ru/page404.htm
+php_value display_errors 0
+php_value log_errors 1
+php_value error_log /home/egs/Suvenirbronz/perror.log
